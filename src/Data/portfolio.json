@@ -1,0 +1,29 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/C-programming.jpg",
+      "title": "C-programming_Projects",
+      "description": "C, Shell Bash, Git",
+      "url": "https://github.com/Anthonyogar"
+    },
+    {
+      "cover": "/portfolio/2/LOGIN-FORM.png",
+      "title": "LOGIN-FORM",
+      "description": "Javascript, Html, Css",
+      "url": "https://github.com/Anthonyogar/LOGIN-FORM-TRANSPARENT"
+    },
+    {
+      "cover": "/portfolio/3/AI Word Extractor.png",
+      "title": "AI Word Extractor",
+      "description": "React, Vitejs, OpenAi",
+      "url": "https://github.com/Anthonyogar/ai-keyword-extractor"
+    },
+    {
+      "cover": "/portfolio/4/registration-form-1.png",
+      "title": "registration-form",
+      "description": "Javascript, Html, Css",
+      "url": "https://github.com/Anthonyogar/Reg_Form"
+    }
+  ]
+}
+
