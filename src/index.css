@@ -1,13 +1,34 @@
+
+html {
+  font-size: 62.5%;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font: 300 11px/1.4 'RobotoMono', 'sans-serif';
+  color: #BEC0ED;
+  background: url('./assets/images/spline.png');
+  background-size: unset; /* Adjusts the background image size to cover the entire container */
+  background-repeat: no-repeat; /* Prevents the background image from repeating */
+  background-position: center; /* Centers the background image within the container */
+  overflow: inherit;
+  display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.dashboard {
+  margin-top: 200px;
+  margin-left: 200px;
 }
+
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}
+
+
+
+
